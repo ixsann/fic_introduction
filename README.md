@@ -1,3 +1,3 @@
 # fic_introduction
 
-A new Flutter project.
+For learning dart & flutter fundamentals
